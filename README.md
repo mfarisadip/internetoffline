@@ -52,16 +52,20 @@ Progammer
 
 - Programmer : Faris. mfarisadip.my.id. mfaris@amnusatech.or.id
 
+Rekomendasi Tambahan
+---------
+
+- https://github.com/frenck/awesome-home-assistant
+
 Source
 ------
 
 - https://github.com/kurniawandata/xcodepandawa2
 
-List Work
+List Pekerjaan
 ------
 
 - LMS (Moodle)
-- Web Management
 
 License
 ------- 
